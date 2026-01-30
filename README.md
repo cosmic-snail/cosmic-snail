@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+### 👋 About Me
+PhD Candidate in Computer Science at Dalian University of Technology  
+Research Direction: AI Large Models  
+Tech Stack: C++ / Python  
+
+### 📚 Research Interests
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- Machine Learning System Optimization
+
+### 🔧 Projects
+- [UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine) - Discription（Distributed Resource Optimization Management Framework）
+
+### 📫 Contact
+- Email: 565019594@qq.com
+
+
+
 <!--
 **cosmic-snail/cosmic-snail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

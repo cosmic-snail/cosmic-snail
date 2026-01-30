@@ -13,6 +13,10 @@ Tech Stack: C++ / Python
 ### 🔧 Projects
 - [UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine) - Discription（Distributed Resource Optimization Management Framework）
 
+🔨 Check out my recent pull requests
+
+- [feat: implement urma_controller_api](https://gitcode.com/openeuler/ubs-engine/pull/39) 
+
 ### 📫 Contact
 - Email: 565019594@qq.com
 

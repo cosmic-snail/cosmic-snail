@@ -11,7 +11,7 @@ Tech Stack: C++ / Python
 - Machine Learning System Optimization
 
 ### 🔧 Projects
-- [UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine) - Discription（Distributed Resource Optimization Management Framework）
+- [UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine) - Discription（Distributed Resource Optimization Management Framework）（2024-2026）
 
 🔨 Check out my recent pull requests
 

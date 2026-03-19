@@ -6,9 +6,24 @@ Research Direction: AI Large Models
 Tech Stack: C++ / Python  
 
 ### 📚 Research Interests
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Machine Learning System Optimization
+🧬 Research Vision: From "Medical Search" to "Clinical Thinking"
+As an AI PhD student and former Cloud Developer, I operate at the intersection of High-Performance Systems and Medical Intelligence. My mission is to transform Medical LLMs from passive databases into proactive, reasoning-capable health stewards.
+
+🚀 What I’m Building:
+
+The Interpretability of Intuition: Decoding expert clinical "gut feelings" into structured, logical reasoning paths using hybrid architectures (Graph + LLM).
+
+Decadal Health Contexts: Leveraging Context Engineering and SGLang to process multi-modal, long-term patient data (blood metrics, vitals, etc.) spanning years, not just tokens.
+
+Proactive Health Guardianship: Shifting AI from a physician's assistant to a "Digital Health Butler" for everyone—moving from reactive answering to proactive intervention.
+
+🛠 Tech Stack & Interests:
+
+Architectures: SGLang, AriGraph, Medical LLMs, Context Management.
+
+Domains: Hemodialysis Data Analytics, Multi-modal Fusion, Chronic Disease Tracking.
+
+Philosophy: Reliability over Hype; Smooth, Zen-like Engineering; Human-Centric AI.
 
 ### 🔧 Projects
 - [UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine) - Discription（Distributed Resource Optimization Management Framework）（2024-2026）

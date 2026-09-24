@@ -1,0 +1,25 @@
+name: Generate User Stats
+
+on:
+  schedule:
+    - cron: "41 2 * * *" # 每天 UTC 02:41 自动更新
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark
+          custom-title: Lutra's GitHub Activity
+          animated-language-chart: true
+          max-languages: 100
+          hide-keys: joined, mostStarred, mostForked, following, sponsors, sponsoring, private
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

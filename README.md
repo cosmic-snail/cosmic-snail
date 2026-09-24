@@ -1,109 +1,119 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lutra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DUT%20CS%20PhD%20Candidate%20%C2%B7%20AI%20Agents%20%C2%B7%20Reliable%20Agentic%20Systems&descAlignY=58&descSize=18" width="100%"/>
+</div>
 
-### 👋 About Me
-PhD Candidate in Computer Science at Dalian University of Technology  
-Research Direction: AI Agents, Reliable Agentic Systems, and AI for Intelligent Manufacturing. 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=PhD+Candidate+%40+Dalian+University+of+Technology;AI+Agents+%26+Reliable+Agentic+Systems;C%2B%2B+%2F+Python+%2F+TypeScript;Reliability+over+Hype+%F0%9F%90%8C" alt="Typing SVG"/>
+  </a>
+</div>
 
-### 📚 Research Interests
-- Long-Horizon Agent Reliability
+<br/>
 
-  - Failure lock-in & recoverability
+## 👋 About Me
 
-  - Error propagation in long-horizon trajectories
+🎓 PhD Candidate in Computer Science at **Dalian University of Technology**
+🔬 Research Direction: **AI Agents, Reliable Agentic Systems, and AI for Intelligent Manufacturing**
 
-  - Verification and generation–verification gaps
+## 📚 Research Interests
 
-  - Reliable coding / CLI agents
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏳ Long-Horizon Agent Reliability</h3>
+      <ul>
+        <li>Failure lock-in &amp; recoverability</li>
+        <li>Error propagation in long-horizon trajectories</li>
+        <li>Verification and generation–verification gaps</li>
+        <li>Reliable coding / CLI agents</li>
+        <li>Agent evaluation and failure analysis</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 AI Agents for Intelligent Manufacturing</h3>
+      <ul>
+        <li>Intelligent process planning</li>
+        <li>CNC machining &amp; manufacturing agents</li>
+        <li>CAD/CAM automation</li>
+        <li>LLM-based manufacturing knowledge reasoning</li>
+        <li>Tool-using agents for engineering software</li>
+        <li>Human knowledge distillation for manufacturing agents</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-  - Agent evaluation and failure analysis
+## 🔭 What I'm Currently Working On
 
-- AI Agents for Intelligent Manufacturing
+**Manufacturing Agent** — Building an AI agent for precision machining process planning:
 
-  - Intelligent process planning
+`Engineering Knowledge → Process Planning → CAD/CAM → CNC`
 
-  - CNC machining & manufacturing agents
+- Manufacturing knowledge retrieval and reasoning
+- Machining process planning &amp; Mastercam automation (.NET API / scripting)
+- MCP-based engineering tool interfaces
+- Learning manufacturing knowledge from technical documents and instructional videos
 
-  - CAD/CAM automation
+**Reliable Long-Horizon Agents** — Studying why AI agents fail during long-running tasks and whether they can recover from intermediate mistakes:
 
-  - LLM-based manufacturing knowledge reasoning
+- When does an agent enter an unrecoverable state, and how can recoverability be measured?
+- How do early mistakes propagate through long trajectories?
+- When does verification fail to provide useful guidance?
+- How should agent systems detect and recover from failure lock-in?
 
-  - Tool-using agents for engineering software
+## 🛠 Tech Stack
 
-  - Human knowledge distillation for manufacturing agents
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts,pytorch,docker,git,linux,react&theme=dark" alt="Tech Stack"/>
+  </a>
+</div>
 
-### 🏭 What I'm Currently Working On
+- **Architectures**: SGLang, AriGraph, Medical LLMs, Context Management
+- **Domains**: Hemodialysis Data Analytics, Multi-modal Fusion, Chronic Disease Tracking
+- **Philosophy**: Reliability over Hype · Smooth, Zen-like Engineering · Human-Centric AI
 
-#### Manufacturing Agent
+## 📊 GitHub Stats
 
-Building an AI agent for precision machining process planning, aiming to connect:
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cosmic-snail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmic-snail&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages"/>
+</div>
 
-Engineering Knowledge → Process Planning → CAD/CAM → CNC
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=cosmic-snail&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
 
-Current explorations include:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cosmic-snail&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</div>
 
-Manufacturing knowledge retrieval and reasoning
+## 🐍 Contribution Snake
 
-Machining process planning
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cosmic-snail/cosmic-snail/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cosmic-snail/cosmic-snail/output/github-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cosmic-snail/cosmic-snail/output/github-snake.svg"/>
+  </picture>
+</div>
 
-Mastercam automation
+## 🔧 Projects
 
-Mastercam .NET API / scripting
+- **[UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine)** — Distributed Resource Optimization Management Framework (2024–2026)
+  - 🔨 Recent PR: [feat: implement urma_controller_api](https://gitcode.com/openeuler/ubs-engine/pull/39)
 
-MCP-based engineering tool interfaces
+## 📫 Contact
 
-Learning manufacturing knowledge from technical documents and instructional videos
+<div align="center">
+  <a href="mailto:565019594@qq.com">
+    <img src="https://img.shields.io/badge/Email-565019594%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=cosmic-snail&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
+</div>
 
-#### Reliable Long-Horizon Agents
+<br/>
 
-Studying why AI agents fail during long-running tasks and whether they can recover from intermediate mistakes.
-
-Current questions include:
-
-When does an agent enter an unrecoverable state?
-
-How can recoverability be measured experimentally?
-
-How do early mistakes propagate through long trajectories?
-
-When does verification fail to provide useful guidance?
-
-How should agent systems detect and recover from failure lock-in?
-
-Coding and CLI agents are my primary experimental environments.
-
-
-
-🛠 Tech Stack & Interests:
-
-Architectures: SGLang, AriGraph, Medical LLMs, Context Management.
-
-Domains: Hemodialysis Data Analytics, Multi-modal Fusion, Chronic Disease Tracking.
-
-Philosophy: Reliability over Hype; Smooth, Zen-like Engineering; Human-Centric AI.
-
-### 🔧 Projects
-- [UB Service Core Engine](https://gitcode.com/openeuler/ubs-engine) - Discription（Distributed Resource Optimization Management Framework）（2024-2026）
-
-🔨 Check out my recent pull requests
-
-- [feat: implement urma_controller_api](https://gitcode.com/openeuler/ubs-engine/pull/39) 
-
-### 📫 Contact
-- Email: 565019594@qq.com
-
-
-
-<!--
-**cosmic-snail/cosmic-snail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
+</div>
